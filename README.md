@@ -10,4 +10,4 @@ This repository includes 2 .csv files of data, 2 .ipynb files of data analysis, 
 2. "final analysis (feature importance).ipybn" contains all the codes analyzing the dataset, convering data exploration, data split, baseline model creation, machine learning model creation, 10-fold gridsearch cross-validation and 10-fold cross-validation of each machine learning model and feature importance extracrtion. 
 
 #### One folder of pictures:
-In this folder, there are 12 pictures visualized and saved during the analysis, mainly about relavance between input variables and target variabales and feature importances of Random Forest models.  
+In this folder, there are 2 pictures visualized and saved during the analysis, mainly about feature importances of Random Forest models when predicting Neuroticism and Agreeableness.  
